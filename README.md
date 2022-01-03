@@ -1,3 +1,3 @@
-Hello
+Ronald Chu
 -----
-hello world!
+Data scientist, Web developer, general coder.
